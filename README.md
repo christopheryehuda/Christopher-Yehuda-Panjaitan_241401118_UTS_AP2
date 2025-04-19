@@ -42,7 +42,7 @@ Fork repository ini dan rename menjadi NAMA_NIM_UTS_AP2
 
 Silahkan masukkan link gdrive (untuk soal 5) dalam kotak berikut
 
-      p
-      
+      https://drive.google.com/folderview?id=1GAOcqQk4dyZ_P91c3RSCeXQd9pR3lRBv
+
 
 # ⚠️ _JANGAN COBA-COBA UNTUK COPY PASTE CODE DARI TEMAN ATAUPUN YANG ADA DI GOOGLE. MOHON KERJAKAN MASING-MASING._ ⚠️
